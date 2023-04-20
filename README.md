@@ -1,2 +1,2 @@
-# pirat-metal-detector
- PIRAT (Pulse Induction) Metal Detector PCB
+<img src="front.png" align="center">
+<img src="back.png" align="center">
